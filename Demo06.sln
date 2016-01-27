@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T1", "Esim\T1.csproj", "{46
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KT2", "KT2\KT2.csproj", "{7241F855-145C-49A1-A5E7-A0D136A0B3A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KT3", "KT3\KT3.csproj", "{480778C7-620F-41AB-975A-14AD8EE93A96}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7241F855-145C-49A1-A5E7-A0D136A0B3A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7241F855-145C-49A1-A5E7-A0D136A0B3A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7241F855-145C-49A1-A5E7-A0D136A0B3A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{480778C7-620F-41AB-975A-14AD8EE93A96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{480778C7-620F-41AB-975A-14AD8EE93A96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{480778C7-620F-41AB-975A-14AD8EE93A96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{480778C7-620F-41AB-975A-14AD8EE93A96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
