@@ -8,13 +8,11 @@ namespace KT3
 {
     class Suits
     {
-       enum Suit
-        {
-            Diamonds,
-            Hearts,
-            Clubs,
-            Spades,
-        }
+        public int Diamonds { get; set; }
+        public int Hearts { get; set; }
+        public int Clubs { get; set; }
+        public int Spades { get; set; }
+
 
     }
 }

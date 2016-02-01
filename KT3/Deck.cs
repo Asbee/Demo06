@@ -8,5 +8,17 @@ namespace KT3
 {
     class Deck
     {
+        private List<Suits> deck;
+
+        public Deck()
+        {
+            deck = new List<Suits>();
+        }
+        public void AddCard(Suits cards)
+        {
+            deck.Add(cards);
+        }
+
+        
     }
 }
